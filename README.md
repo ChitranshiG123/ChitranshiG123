@@ -20,4 +20,6 @@ Welcome to my GitHub profile! I’m a student with a passion for learning and ex
 ### 🌱 Learning Focus
 - Strengthening core programming skills  
 - Exploring advanced concepts in Computer Science
-  ✨️Thanks for visiting my profile. Let’s grow together!
+  
+
+#✨️Thanks for visiting my profile. Let’s grow together!
